@@ -1,4 +1,4 @@
-package com.example.SpringBootWeb1;
+package com.example.SpringBootWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
