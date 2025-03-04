@@ -5,6 +5,10 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <h2>The Result is ${result} </h2>
+        <h2>Welcome to Telusko</h2>
+
+        <p>${alien}</p>
+
+        <p>Welcome to the ${course} World</p>
     </body>
 </html>
